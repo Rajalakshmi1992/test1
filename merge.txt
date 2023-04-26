@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is some content to mess
 content to append
+
+totally different content in this
+>>>>>>> new_branch_merge
